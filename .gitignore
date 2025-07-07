@@ -16,4 +16,5 @@ Thumbs.db
 *~
 *.log
 Lean4.lean
+.github/
 
