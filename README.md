@@ -1,2 +1,2 @@
-Hello this is the perfect Lean configuration.
+Hello! This is the perfect Lean configuration.
 
